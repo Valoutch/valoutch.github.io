@@ -1,0 +1,9 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/jekyll",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+        "rebornix.Ruby"
+    ]
+}
